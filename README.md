@@ -7,4 +7,4 @@
 ## Title 2
 
 - list item
-- list otem 
+- list item 
